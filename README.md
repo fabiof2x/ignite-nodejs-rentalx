@@ -22,3 +22,4 @@ API desenvolvida no Módulo II do curso de Node.js do Ignite.
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com)
+- [Multer](https://www.npmjs.com/package/multer)
